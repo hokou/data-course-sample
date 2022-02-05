@@ -23,6 +23,7 @@
   - 這次的實作限縮「美妝（All Beauty）」類別的商品資料，包含兩種資料集
     - [All_Beauty.csv](http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/All_Beauty.csv)：提供使用者購買商品的紀錄
     - [meta_All_Beauty.json.gz](http://deepyeti.ucsd.edu/jianmo/amazon/metaFiles2/meta_All_Beauty.json.gz)：提供商品的基本資訊
+- iCook Data：經過整理過的資料
 
 
 ## 專案成果
@@ -38,6 +39,10 @@
   - file：[wk03_sample-collaborative-filtering](wk03_sample-collaborative-filtering.ipynb)
   - 採用 Collaborative filtering 的推薦系統，分數：0.00169
   - 採用 Collaborative filtering + rule-based 的推薦系統，分數：0.15932
+- wk04/wk05：
+  - iCook 專案，採用 rule-based
+  - wk04 分數：0.00608
+  - wk05 分數：0.00842
 
 
 ## 心得
