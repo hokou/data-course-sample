@@ -11,6 +11,7 @@
 
 - 資料人才種子計畫：[https://program.alphacamp.co/data-ai](https://program.alphacamp.co/data-ai)
   - 六週攻略一個推薦系統
+  - date：2021/12/20 - 2022/01/30
 - 招募 50 名種子挑戰者
   - 具有一定 Python/工具基礎，通過技術評估
   - 每週投入 15-20 小時實作、積極參與班級討論
